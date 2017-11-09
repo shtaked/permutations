@@ -1,0 +1,2 @@
+Application checks the amount of minimum permutations between 2 strings where each permutation should be a real word.
+For each permutation it is allowed to remove, add or replace one letter.
